@@ -1,0 +1,6 @@
+welcome to my blog
+<pre>
+<?php
+ print `ifconfig`;
+ ?>
+ </pre>
